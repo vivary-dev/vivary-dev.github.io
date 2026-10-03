@@ -10,4 +10,4 @@
 :HL["/brand/vivary-mark-wave-globe-bone.svg","image"]
 :HL["/brand/vivary-mark-seed-world-bone.svg","image"]
 :HL["/brand/vivary-mark-strata-sprout-bone.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"D6d_gUbI6Cqnzn39IK8LJ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"UQfgGpr9TMf5YfVeKAGk3"}
