@@ -1,11 +1,2 @@
-User-Agent: *
+User-agent: *
 Allow: /
-Content-Signal: search=yes, ai-train=no
-
-User-Agent: GPTBot
-User-Agent: ClaudeBot
-User-Agent: Google-Extended
-User-Agent: Applebot-Extended
-Disallow: /
-
-Sitemap: https://vivary-dev.github.io/sitemap.xml
